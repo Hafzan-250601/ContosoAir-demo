@@ -89,3 +89,4 @@ For more information see the [Code of Conduct FAQ](https://opensource.microsoft.
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
 ---THIS IS MY EDIT FOR THE DEMO---
+---MY EMAIL IS blablabla@contoso.com---
